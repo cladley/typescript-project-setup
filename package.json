@@ -1,0 +1,22 @@
+{
+  "name": "typescript-project-setup",
+  "version": "1.0.0",
+  "description": "A demo package for typescript project setup",
+  "keywords": [
+    "demo",
+    "typescript"
+  ],
+  "homepage": "https://github.com/cladley/typescript-project-setup",
+  "bugs": {
+    "url": "https://github.com/cladley/typescript-project-setup/issues"
+  },
+  "author": "Colin Ladley",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cladley/typescript-project-setup.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module"
+}
